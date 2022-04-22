@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bossman7309
-- 👀 I’m interested in games and coding
+- 👀 I’m interested in games, coding privacy and cybersecurity 
 - 💞️ I’m looking to collaborate on smaller coding
 
 <!---
