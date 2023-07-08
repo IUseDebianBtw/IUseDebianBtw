@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bossman7309
 - 👀 I’m interested in games, coding, privacy and cybersecurity 
-- 💞️ I’m looking to collaborate on smaller coding
+- 💞️ I’m looking to collaborate on coding projects
 
 my website:
 https://bossman7309.net/
