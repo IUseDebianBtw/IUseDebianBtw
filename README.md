@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @bossman7309
 - 👀 I’m interested in games, coding, privacy and cybersecurity 
 - 💞️ I’m looking to collaborate on coding projects
+- 
+[![Bossman7309s GitHub stats](https://github-readme-stats.vercel.app/api?username=bossman7309)](https://github.com/anuraghazra/github-readme-stats)
 
 my website:
 https://bossman7309.net/
