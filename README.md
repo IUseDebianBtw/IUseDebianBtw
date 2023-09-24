@@ -1,6 +1,8 @@
 # Hey, I'm Netrunner
 Casual Linux enjoyer
+
 ai dreamer
+
 I’m also interested in coding, privacy and cybersecurity 
 
 ## Stats
