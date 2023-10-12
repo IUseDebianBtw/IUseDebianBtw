@@ -1,7 +1,9 @@
 # Hey, I'm Netrunner
 Casual Linux enjoyer
 
-ai dreamer
+AI dreamer
+
+To Enceladus and beyond 🪐
 
 I’m also interested in coding, privacy and cybersecurity 
 
