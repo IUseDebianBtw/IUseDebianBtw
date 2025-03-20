@@ -3,8 +3,6 @@ Casual Linux enjoyer
 
 AI dreamer
 
-To Enceladus and beyond 🪐
-
 I’m also interested in coding, privacy and cybersecurity 
 
 ## Stats
